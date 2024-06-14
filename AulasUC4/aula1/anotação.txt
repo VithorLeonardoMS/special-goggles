@@ -1,0 +1,2 @@
+Transpilar: npx tsc index.ts
+baixar: npm install typescript
