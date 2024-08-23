@@ -5,7 +5,6 @@ const rl = require('readline-sync')
 export class Garagem{
     private carros:Carro[]
 
-
         constructor(){
             this.carros = []
         }
